@@ -2,4 +2,4 @@
 
 
 Please find the link to my project here
-[https://public.tableau.com/profile/alekhya.akkinepally#!/vizhome/CancerStatistics_0/CancerStatistics?publish=yes]
+[Cancer-Stats](https://public.tableau.com/profile/alekhya.akkinepally#!/vizhome/CancerStatistics_0/CancerStatistics?publish=yes)
